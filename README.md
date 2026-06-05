@@ -1,4 +1,6 @@
 # 7-B-RADIATION-PATTERN-OF-HORN-PARABOLIC-ANTENNAS
+# NAME:VISMAYA.V
+# REGISTER NUMBER:212224060310
 
 **Aim:**
 To measure the polar pattern and the gain of a waveguide horn antenna and parabolic antenna.
